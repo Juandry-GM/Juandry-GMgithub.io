@@ -1,0 +1,1 @@
+  alert("Esta página está hecha para fines estudiantiles");
